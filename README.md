@@ -1,3 +1,3 @@
 # Grafos
 
-Intended for Graphs discipline
+Intended for Graph
